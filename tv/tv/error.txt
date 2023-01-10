@@ -1,0 +1,4 @@
+2023-01-10 Tv:24 
+2023-01-10 Tv:37 
+2023-01-10INFO  Tv:24 -STAI GUARDANDO CANALE 7
+2023-01-10ERROR Tv:37 -Non hai inserito un valore numerico
